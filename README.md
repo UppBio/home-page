@@ -86,7 +86,7 @@ Open up `config.toml` in a text editor:
 baseURL = "https://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "ananke"
+theme = "dtox-hugo"
 ```
 
 Replace the `title` above with something more personal. Also, if you already have a domain ready, set the `baseURL`. Note that this value is not needed when running the local development server.
@@ -95,7 +95,7 @@ Replace the `title` above with something more personal. Also, if you already hav
 **Tip:** Make the changes to the site configuration or any other file in your site while the Hugo server is running, and you will see the changes in the browser right away, though you may need to [clear your cache](https://kb.iu.edu/d/ahic).
 
 
-For theme specific configuration options, see the [theme site](https://github.com/theNewDynamic/gohugo-theme-ananke).
+For theme specific configuration options, see the [theme site](https://docs.gethugothemes.com/dtox/).
 
 **For further theme customization, see [Customize a Theme](/themes/customizing/).**
 

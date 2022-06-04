@@ -1,6 +1,6 @@
-baseURL = "/"
+baseURL = "https://examplesite.com/"
 languageCode = "en-us"
-title = "Upp Bio, Inc."
+title = "Dtox Hugo Template"
 theme = "dtox-hugo"
 
 # Plugins
@@ -48,10 +48,10 @@ theme = "dtox-hugo"
   URL = "service"
   weight = 4
 
-#   [[menu.main]]
-#   name = "Team"
-#   URL = "#team"
-#   weight = 5
+  [[menu.main]]
+  name = "Team"
+  URL = "#team"
+  weight = 5
 
   [[menu.main]]
   name = "Pricing"
@@ -66,11 +66,11 @@ theme = "dtox-hugo"
 
 
 [params]
-logo = "images/uppbio-logo-light.png"
+logo = "images/logo.png"
 home = "Home"
 # Meta data
-description = "Upp Bio, Inc."
-author = "Upp Bio, Inc."
+description = "This is meta description"
+author = "Themefisher"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 
@@ -81,13 +81,13 @@ googleAnalitycsID = "Your ID"
   # Navigation button
   [params.navBtn]
   enable = true
-  btnText = "Get in touch"
-  URL = "/contact"
+  btnText = "Try Free"
+  URL = "#"
 
   # Banner
   [params.banner]
-  title = "We make bio manufacturing easier with software"
-  content = ""
+  title = "Take Control of your <br> Project and Team"
+  content = "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum <br> dolore eu fugiat nulla pariatur."
   bgImage = "images/hero-area/banner-bg.svg"
   image = "images/hero-area/banner-img.png"
   btnText = "explore us"

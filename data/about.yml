@@ -1,0 +1,69 @@
+# about us
+about:
+  title : "About Us"
+  content : "We are a team of bio engineers and software developers who are passionate about the future of bio-technology.
+    We are building a software platform that will help bio engineers and bio-technology companies' bio-manufacturing process more efficient.
+            <br>"
+  videoThumb: "images/about/video-thumb.jpg"
+  videoURL : "https://www.youtube.com/embed/2yoYxetUrWQ"
+
+# products
+products:
+  enable: true
+  title : "Our Product"
+  description : "Far far away, behind the word mountains, far from the <br> countries Vokalia and Consonantia."
+  bgImage : "images/backgrounds/about-bg.svg"
+  productList :
+    # product item
+    - productImage : "images/product/product-1.jpg"
+      URL : "#"
+
+    # product item
+    - productImage : "images/product/product-2.jpg"
+      URL : "#"
+
+    # product item
+    - productImage : "images/product/product-3.jpg"
+      URL : "#"
+
+  # more product button
+  button:
+    enable : true
+    btnText : "Explore More Product"
+    URL : "#"
+
+# vision
+vision:
+  enable : true
+  title : "Our Vision"
+  image : "images/about/vision.png"
+  content : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."
+
+# our clients
+clients :
+  enable : true
+  title : "Our Clients"
+  clientList :
+    - logo : "images/clients-logo/client-1.png"
+      URL : "#"
+
+    - logo : "images/clients-logo/client-2.png"
+      URL : "#"
+
+    - logo : "images/clients-logo/client-3.png"
+      URL : "#"
+
+    - logo : "images/clients-logo/client-4.png"
+      URL : "#"
+
+    - logo : "images/clients-logo/client-5.png"
+      URL : "#"
+
+    - logo : "images/clients-logo/client-6.png"
+      URL : "#"
+
+    - logo : "images/clients-logo/client-7.png"
+      URL : "#"
+
+    - logo : "images/clients-logo/client-8.png"
+      URL : "#"
