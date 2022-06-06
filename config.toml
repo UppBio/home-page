@@ -48,10 +48,10 @@ theme = "dtox-hugo"
   URL = "service"
   weight = 4
 
-#   [[menu.main]]
-#   name = "Team"
-#   URL = "#team"
-#   weight = 5
+  [[menu.main]]
+  name = "Team"
+  URL = "#team"
+  weight = 5
 
   [[menu.main]]
   name = "Pricing"
