@@ -10,10 +10,10 @@
       </div>
       <div class="row contact-bg p-5 rounded mb-5">
         <div class="col-lg-7 mb-4 mb-lg-0">
-          <form action="{{ with .Site.Data.contact.contact.formAction }}{{ . }} {{end }}" method="POST">
-            <input type="text" class="form-control mb-3" id="name" name="name" placeholder="Your Name">
-            <input type="email" class="form-control mb-3" id="mail" name="mail" placeholder="Your Email">
-            <input type="text" class="form-control mb-3" id="subject" name="subject" placeholder="Subject">
+          <form name="contact" method="POST" data-netlify="true">
+            <input type="text" class="form-control mb-3" id="name" name="name" placeholder="Your Name" required>
+            <input type="email" class="form-control mb-3" id="mail" name="mail" placeholder="Your Email" required>
+            <input type="text" class="form-control mb-3" id="subject" name="subject" placeholder="Subject" required>
             <textarea name="message" id="message" class="form-control mb-3" placeholder="Your Message"></textarea>
             <button type="submit" value="send" class="btn btn-secondary">SEND MESSAGE</button>
           </form>
