@@ -34,29 +34,29 @@ theme = "dtox-hugo"
 # Menu
 [menu]
   [[menu.main]]
-  name = "Feature"
-  URL = "#feature"
+  name = "Technology"
+  URL = "#technology"
   weight = 2
 
-  [[menu.main]]
-  name = "About"
-  URL = "about"
-  weight = 3
+  # [[menu.main]]
+  # name = "About"
+  # URL = "about"
+  # weight = 3
 
-  [[menu.main]]
-  name = "Service"
-  URL = "service"
-  weight = 4
+  # [[menu.main]]
+  # name = "Service"
+  # URL = "service"
+  # weight = 4
 
   [[menu.main]]
   name = "Team"
   URL = "#team"
   weight = 5
 
-  [[menu.main]]
-  name = "Pricing"
-  URL = "#pricing"
-  weight = 6
+  # [[menu.main]]
+  # name = "Pricing"
+  # URL = "#pricing"
+  # weight = 6
 
   [[menu.main]]
   name = "Contact"
@@ -78,19 +78,18 @@ googleAnalitycsID = "Your ID"
   [params.preloader]
   enable = true
 
-  # Navigation button
-  [params.navBtn]
-  enable = true
-  btnText = "Get in touch"
-  URL = "/contact"
+  # # Navigation button
+  # [params.navBtn]
+  # enable = true
+  # btnText = "Get in touch"
+  # URL = "/contact"
 
   # Banner
   [params.banner]
-  title = "We make bio manufacturing easier with software"
+  title = "Building the OS for Biomanufacturing"
   content = ""
   bgImage = "images/hero-area/banner-bg.svg"
-  image = "images/hero-area/banner-img.png"
-  btnText = "explore us"
+  image = "images/hero-area/heroclip.mp4"
   URL = "#"
     [params.banner.bgShape]
     enable = true

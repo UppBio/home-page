@@ -9,9 +9,11 @@
           <h1 class="mb-3">{{ .title | safeHTML }}</h1>
           <p class="mb-4">{{ .content | safeHTML }}</p>
           {{ end }}
-          <a href="{{ .Site.Params.banner.URL | absURL }}" class="btn btn-secondary btn-lg">{{ .Site.Params.banner.btnText }}</a>
+          <!-- <a href="{{ .Site.Params.banner.URL | absURL }}" class="btn btn-secondary btn-lg">{{ .Site.Params.banner.btnText }}</a> -->
           <!-- banner image -->
-          <img class="img-fluid w-100 banner-image" src="{{ .Site.Params.banner.image | absURL }}" alt="banner-img">
+          <!-- <img  src="{{ .Site.Params.banner.image | absURL }}" > -->
+          <video class="img-fluid w-75 banner-image" autoplay loop muted controls width="300px" height="auto"
+src="{{ .Site.Params.banner.image | absURL }}" style="pointer-events: none;" alt="banner-img"></video>
         </div>
       </div>
     </div>

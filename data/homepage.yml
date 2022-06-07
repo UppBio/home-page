@@ -1,5 +1,5 @@
 # Features
-feature:
+technology:
   enable : true
   title : "Building the Biomanufacturing OS"
   description : ""
@@ -7,12 +7,12 @@ feature:
     # feature item
     - title : "Pathway Search and Optimization"
       icon : "ti-ruler-pencil"
-      content : "Automated pipelines to identify and optimize metabolic pathways."
+      content : "dentifying biochemistry to manufacture materials sustainably is challenging and expensive. Cut down the time and cost of finding and evaluating new biochemistries from months to hours with our one-of-a-kind biochemistry search and optimization engine.  Get your product to market faster by saving time by having post-process, scale-up optimization at your fingertips."
 
     # feature item
     - title : "Miniaturized Experimental Pipelines"
       icon : "ti-layout-cta-left"
-      content : "Automated Microfluidic pipelines to rapidly increase throughput and improve meterology for experiments."
+      content : "Automated Microfluidic pipelines to rapidly increase throughput and improve meterology for experiments. We are developing technology to give you new insights into the genomes and pathways you are working with."
 
     # # feature item
     # - title : "Bug free Code"
@@ -65,25 +65,25 @@ team:
     # team member
     - name : "Radhakrishna Sanka, Ph.D"
       designation : "BioDesign and Experimental Automation"
-      image : "images/team/team-1.jpg"
+      image : "https://media-exp1.licdn.com/dms/image/C4D03AQHTM0dOScGB6g/profile-displayphoto-shrink_100_100/0/1517263696721?e=1660176000&v=beta&t=Ems8FBPINfR8K_qcHdecMiTFpWMMV4HYVRQFLoRSua0"
       # content : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. S eparated they"
 
     # team member
     - name : "Ray Hernandez"
       designation : "Business Development and Program Management"
-      image : "images/team/team-2.jpg"
+      image : "https://media-exp1.licdn.com/dms/image/C4E03AQHxZ4iu1HpiVw/profile-displayphoto-shrink_100_100/0/1553515630365?e=1660176000&v=beta&t=PWQpqvlPMki6cgJYx72WkWMAbG80hSuMwRVxaVcNJno"
       # content : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. S eparated they"
 
     # team member
     - name : "Steven Irby"
-      designation : "Software Engineer"
-      image : "images/team/team-3.jpg"
+      designation : "Software Engineering and Product Development"
+      image : "https://media-exp1.licdn.com/dms/image/C5603AQER9oSLuMUKUQ/profile-displayphoto-shrink_100_100/0/1566684046100?e=1660176000&v=beta&t=CU0I7zjQn5ww3Ze1xo9zKbs9HSgvzbxagpvO6Q468kk"
       # content : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. S eparated they"
 
     # team member
     - name : "Leanne Whitmore, Ph.D"
       designation : "Computational Molecular Biology"
-      image : "images/team/team-3.jpg"
+      image : "https://media-exp1.licdn.com/dms/image/C4D03AQFTEhT_COO5WQ/profile-displayphoto-shrink_100_100/0/1596061263093?e=1660176000&v=beta&t=lHIAcTGIlGMWH3m3S6VOAA2PK2D5Jqs-DnF57O8zhw8"
       # content : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. S eparated they"      
 
 # pricing

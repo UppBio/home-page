@@ -28,7 +28,7 @@ products:
 
   # more product button
   button:
-    enable : true
+    enable : false
     btnText : "Explore More Product"
     URL : "#"
 

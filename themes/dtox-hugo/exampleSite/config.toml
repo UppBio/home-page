@@ -1,6 +1,6 @@
-baseURL = "https://examplesite.com/"
+baseURL = "https://upp.bio/"
 languageCode = "en-us"
-title = "Dtox Hugo Template"
+title = "Upp Bio"
 theme = "dtox-hugo"
 
 # Plugins
@@ -34,8 +34,8 @@ theme = "dtox-hugo"
 # Menu
 [menu]
   [[menu.main]]
-  name = "Feature"
-  URL = "#feature"
+  name = "technology"
+  URL = "#technology"
   weight = 2
 
   [[menu.main]]
@@ -80,7 +80,7 @@ googleAnalitycsID = "Your ID"
 
   # Navigation button
   [params.navBtn]
-  enable = true
+  enable = false
   btnText = "Try Free"
   URL = "#"
 
