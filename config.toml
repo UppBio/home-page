@@ -89,7 +89,7 @@ googleAnalitycsID = "Your ID"
   title = "Building the OS for Biomanufacturing"
   content = ""
   bgImage = "images/hero-area/banner-bg.svg"
-  image = "images/hero-area/heroclip.mp4"
+  image = "images/heroclip.mp4"
   URL = "#"
     [params.banner.bgShape]
     enable = true

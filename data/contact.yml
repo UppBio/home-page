@@ -2,9 +2,9 @@
 contact:
   title : "Contact"
   formAction : "#" # form works with formspree.io
-  content : "If you are an early stage biomanufacturing starup, or are working in the field, please get in touch."
+  content : "If you are an early stage biomanufacturing startup, or are working in the field, please get in touch."
   # phone : "+442081446356"
-  email : "hello@upp.bio"
+  email : ""
   # address : "71 Shelton Street<br>London WC2H 9JQ England"
 
 # # bullet point
@@ -14,13 +14,13 @@ contact:
 #     icon : "ti-layers-alt"
 #     iconColor : "blue"
 #     content : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia."
-    
+
 #   # bullet point item
 #   - title : "Help & Support"
 #     icon : "ti-layers-alt"
 #     iconColor : "green"
 #     content : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia."
-    
+
 #   # bullet point item
 #   - title : "SalesLegal Departments"
 #     icon : "ti-layers-alt"

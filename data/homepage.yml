@@ -75,16 +75,17 @@ team:
       # content : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. S eparated they"
 
     # team member
-    - name : "Steven Irby"
+    - name : "Steven I"
       designation : "Software Engineering and Product Development"
-      image : "https://media-exp1.licdn.com/dms/image/C5603AQER9oSLuMUKUQ/profile-displayphoto-shrink_100_100/0/1566684046100?e=1660176000&v=beta&t=CU0I7zjQn5ww3Ze1xo9zKbs9HSgvzbxagpvO6Q468kk"
+      image : false
+      avatar: "male"
       # content : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. S eparated they"
 
     # team member
     - name : "Leanne Whitmore, Ph.D"
       designation : "Computational Molecular Biology"
       image : "https://media-exp1.licdn.com/dms/image/C4D03AQFTEhT_COO5WQ/profile-displayphoto-shrink_100_100/0/1596061263093?e=1660176000&v=beta&t=lHIAcTGIlGMWH3m3S6VOAA2PK2D5Jqs-DnF57O8zhw8"
-      # content : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. S eparated they"      
+      # content : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. S eparated they"
 
 # pricing
 pricing:

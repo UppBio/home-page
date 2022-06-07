@@ -398,7 +398,16 @@ src="{{ .Site.Params.banner.image | absURL }}" style="pointer-events: none;" alt
           <div class="team-member">
             <div class="d-flex mb-4">
               <div class="mr-3">
-                <img class="rounded-circle img-fluid" src="{{ .image | absURL }}" alt="team-member">
+                {{ if .image }}
+                  <img class="rounded-circle img-fluid" src="{{ .image | absURL }}" alt="team-member">
+                {{ else}}
+                  {{ if and .avatar (eq .avatar "male") }}
+                    <img class="rounded-circle img-fluid" src="{{ `images/team/avatar-male.png` | relURL }}" alt="team-member" width="85">
+                  {{ end }}
+                  {{ if and .avatar (eq .avatar "female") }}
+                    <img class="rounded-circle img-fluid" src="{{ `images/team/avatar-female.png` | relURL }}" alt="team-member" width="85">
+                  {{ end }}
+                {{ end }}
               </div>
               <div class="align-self-center">
                 <h4>{{ .name }}</h4>
