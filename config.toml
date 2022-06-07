@@ -99,22 +99,22 @@ googleAnalitycsID = "Your ID"
   [params.footer]
   bgImage = "images/backgrounds/footer-bg.svg"
 
-    [[params.footer.socialIcon]]
-    icon = "ti-facebook"
-    color = "facebook"
-    URL = "#"
+#     [[params.footer.socialIcon]]
+#     icon = "ti-facebook"
+#     color = "facebook"
+#     URL = "#"
 
-    [[params.footer.socialIcon]]
-    icon = "ti-twitter-alt"
-    color = "twitter"
-    URL = "#"
+#     [[params.footer.socialIcon]]
+#     icon = "ti-twitter-alt"
+#     color = "twitter"
+#     URL = "#"
 
     [[params.footer.socialIcon]]
     icon = "ti-linkedin"
     color = "linkedin"
-    URL = "#"
+    URL = "https://www.linkedin.com/company/upp-bio/about/"
 
     [[params.footer.socialIcon]]
     icon = "ti-github"
     color = "black"
-    URL = "#"
+    URL = "https://github.com/UppBio"
