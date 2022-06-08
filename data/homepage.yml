@@ -125,11 +125,14 @@ clientSlider:
     - logo : "/images/clients-logo/BUildLab-logo.png"
       URL : "https://www.bu.edu/innovate/build-your-idea/build-lab-about/"
 
-    - logo : "/images/clients-logo/engine-logo.png"
+    - logo : "https://media-exp2.licdn.com/dms/image/C4E07AQHEamgXXlaeoA/group-logo_image-shrink_48x48/0/1631007820260?e=1655301600&v=beta&t=nfBCT_QPlSz-9qxfqi_kRgWOnq8w1gYWHZr5AAGyOj4"
       URL : "https://www.engine.xyz/blueprint/"
 
     - logo : "/images/clients-logo/fedtech-logo.png"
       URL : "https://www.fedtech.io/"
+    
+    - logo: "/images/clients-logo/igem-epic-logo.png"
+      URL : "https://startups.igem.org/"
 
 
 # newsletter subscription form
