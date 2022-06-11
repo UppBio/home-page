@@ -33,10 +33,10 @@ theme = "dtox-hugo"
 
 # Menu
 [menu]
-  [[menu.main]]
-  name = "Technology"
-  URL = "#technology"
-  weight = 2
+#   [[menu.main]]
+#   name = "Technology"
+#   URL = "#technology"
+#   weight = 2
 
   # [[menu.main]]
   # name = "About"
