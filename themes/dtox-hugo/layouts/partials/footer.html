@@ -4,9 +4,9 @@
     <div class="row">
       <div class="col-lg-4 text-center text-lg-left mb-4 mb-lg-0">
         <!-- logo -->
-        {{/*  <a href="{{ .Site.BaseURL }}">
-          <img class="img-fluid" src="{{ .Site.Params.logo | absURL }}" alt="logo">
-        </a>  */}}
+        <a href="{{ .Site.BaseURL }}">
+          <img class="img-fluid" src="{{ .Site.Params.logo | absURL }}" alt="logo" width="100">
+        </a>
       </div>
       <!-- footer menu -->
       <nav class="col-lg-8 align-self-center mb-5">
@@ -33,6 +33,11 @@
           {{ end }}
         </ul>
       </nav>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-lg-12 text-center">
+      <small>Copyright {{ now.Format "2006"}} © Upp Bio, Inc. | All right reserved.</small>
     </div>
   </div>
 </footer>

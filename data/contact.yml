@@ -1,11 +1,11 @@
 # contact information
 contact:
   title : "Contact"
-  formAction : "#" # form works with formspree.io
+  formAction : "#"
   content : "If you are an early stage biomanufacturing startup, or are working in the field, please get in touch."
   # phone : "+442081446356"
   email : ""
-  # address : "71 Shelton Street<br>London WC2H 9JQ England"
+  address : "c/o BUild Lab <br>730 Commonwealth Avenue 1st Floor<br> Boston, MA 02215"
 
 # # bullet point
 # bulletPoint :
